@@ -2,7 +2,7 @@ Mass Mailing using LAMBDA Function  in AWS
 //Create or update a Lambda function that includes logic for sending email through Amazon SES
 For Python version 3.9, see the following example code: //
 
-import json
+import Json
 import boto3
 client = boto3.client('ses', region_name='us-west-2')
 def lambda_handler(event, context):
