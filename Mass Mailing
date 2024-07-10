@@ -1,4 +1,4 @@
-Mass Mailing using LAMBDA Function  in AWS
+//Mass Mailing using LAMBDA Function  in AWS
 //Create or update a Lambda function that includes logic for sending email through Amazon SES
 For Python version 3.9, see the following example code: //
 
